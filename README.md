@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Manuel Flores 👋
+# ¡Hola! Soy Juan Manuel Flores
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-manuel-flores-a68a53201)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guabit)
@@ -10,16 +10,16 @@
 
 ---
 
-## 📌 Sobre mí
+## Sobre mí
 
-- 🎓 **Formación Académica:** Cursando Ingeniería en Sistemas de Información en la **Universidad Nacional del Sur (UNS)**, con foco en POO, estructuras de datos, algoritmos y diseño de software.
-- ⚙️ **Enfoque Backend:** Desarrollo de servicios y APIs con **Java y Spring Boot**, priorizando código mantenible, inyección de dependencias y principios SOLID.
-- 🛡️ **Seguridad & Persistencia:** Implementación de autenticación y autorización con **Spring Security + JWT (RBAC)**, manejo transaccional (ACID) y prevención de problemas de concurrencia en bases de datos relacionales.
-- 🚀 **Herramientas & Colaboración:** Trabajo en equipo con **Gitflow**, metodologías ágiles (**Scrum**), entornos reproducibles con **Docker** y pruebas de integración con **Cypress**.
+- **Formación Académica:** Cursando Ingeniería en Sistemas de Información en la **Universidad Nacional del Sur (UNS)**, con foco en POO, estructuras de datos, algoritmos y diseño de software.
+- **Enfoque Backend:** Desarrollo de servicios y APIs con **Java y Spring Boot**, priorizando código mantenible, inyección de dependencias y principios SOLID.
+- **Seguridad & Persistencia:** Implementación de autenticación y autorización con **Spring Security + JWT (RBAC)**, manejo transaccional (ACID) y prevención de problemas de concurrencia en bases de datos relacionales.
+- **Herramientas & Colaboración:** Trabajo en equipo con **Gitflow**, metodologías ágiles (**Scrum**), entornos reproducibles con **Docker** y pruebas de integración con **Cypress**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Backend & Arquitectura
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-## 💻 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :---: |
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guabit&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
