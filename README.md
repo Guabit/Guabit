@@ -1,21 +1,21 @@
-# ¡Hola! Soy Juan Manuel Flores
+# ¡Hola! Soy Juan Manuel Flores 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Tu-LinkedIn-Aquí])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-manuel-flores-a68a53201)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guabit)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guanmiflores@gmail.com)
 
-> **Backend Developer | Java & Spring Boot Specialist**  
+> **Backend Developer | Java & Spring Boot**  
 > *Estudiante de Ingeniería en Sistemas de Información (Universidad Nacional del Sur)*  
-> Especializado en diseñar arquitecturas de software robustas, APIs RESTful seguras y modelado de datos relacionales de alto rendimiento.
+> Desarrollador backend orientado a la construcción de APIs RESTful limpias, arquitectura en capas y persistencia relacional sólida.
 
 ---
 
 ## 📌 Sobre mí
 
-- 🎓 **Formación Académica:** Cursando Ingeniería en Sistemas de Información en la **Universidad Nacional del Sur (UNS)**, con base en POO, estructuras de datos, algoritmos y diseño arquitectónico.
-- ⚙️ **Enfoque Backend:** Desarrollo de APIs RESTful escalables con **Java y Spring Boot**, implementando arquitectura en capas, inyección de dependencias y principios SOLID.
-- 🛡️ **Seguridad & Concurrencia:** Especial interés en autenticación sin estado mediante **Spring Security + JWT (RBAC)**, persistencia transaccional (ACID) y control de concurrencia para evitar colisiones en reservas y transferencias.
-- 🚀 **Calidad & Metodologías:** Experiencia de trabajo colaborativo con **Gitflow**, metodologías ágiles (**Scrum**), entornos reproducibles con **Docker** y pruebas automatizadas con **Cypress**.
+- 🎓 **Formación Académica:** Cursando Ingeniería en Sistemas de Información en la **Universidad Nacional del Sur (UNS)**, con foco en POO, estructuras de datos, algoritmos y diseño de software.
+- ⚙️ **Enfoque Backend:** Desarrollo de servicios y APIs con **Java y Spring Boot**, priorizando código mantenible, inyección de dependencias y principios SOLID.
+- 🛡️ **Seguridad & Persistencia:** Implementación de autenticación y autorización con **Spring Security + JWT (RBAC)**, manejo transaccional (ACID) y prevención de problemas de concurrencia en bases de datos relacionales.
+- 🚀 **Herramientas & Colaboración:** Trabajo en equipo con **Gitflow**, metodologías ágiles (**Scrum**), entornos reproducibles con **Docker** y pruebas de integración con **Cypress**.
 
 ---
 
@@ -54,26 +54,14 @@
 
 | Proyecto | Descripción | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **Alky Wallet**<br>*(Fintech API)* | API RESTful transaccional para operaciones financieras y transferencias de saldo. Implementa seguridad basada en roles (RBAC) con JWT, consistencia ACID estricta, DTOs con manejo centralizado de excepciones y pruebas E2E. | `Java` `Spring Boot` `PostgreSQL` `Spring Security` `JWT` `Docker` `Cypress` | [Código](https://github.com/Guabit/alky-wallet) \| [Demo]([Tu-Demo-Aquí]) |
-| **FlowerServices**<br>*(Marketplace API)* | Backend modular para contratación y agendamiento de servicios técnicos a domicilio. Desarrollado con principios SOLID y arquitectura en capas, incorporando control de concurrencia para evitar franjas horarias solapadas (*double booking*). | `Java 21` `Spring Boot` `PostgreSQL` `Spring Data JPA` `Jakarta Validation` | [Código](https://github.com/Guabit/flower-services) \| [Demo]([Tu-Demo-Aquí]) |
+| **Alky Wallet**<br>*(Fintech API)* | API RESTful transaccional para operaciones financieras y transferencias de saldo. Implementa seguridad RBAC con JWT, consistencia ACID, manejo de excepciones con DTOs y pruebas E2E. | `Java` `Spring Boot` `PostgreSQL` `Spring Security` `JWT` `Docker` `Cypress` | [Código](https://github.com/Guabit/AlkyWallet) \| [Demo](https://alkywallet.com.ar/) |
+| **FlowerServices**<br>*(Marketplace API)* | Backend modular para agendamiento de servicios técnicos a domicilio. Arquitectura en capas con control de concurrencia y validación de franjas horarias para prevenir *double booking*. | `Java 21` `Spring Boot` `PostgreSQL` `Spring Data JPA` `Jakarta Validation` | [Código](https://github.com/Guabit/FlowerServices) |
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guabit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guabit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guabit&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guabit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
-
----
-
-## 📬 Conectemos
-
-¿Interesado en colaborar en proyectos o conversar sobre arquitectura backend y sistemas distribuidos?
-
-- 💼 **LinkedIn:** [[Tu LinkedIn Aquí]](https://linkedin.com/in/[Tu-LinkedIn-Aquí])
-- 🐙 **GitHub:** [@Guabit](https://github.com/Guabit)
-- ✉️ **Correo electrónico:** [guanmiflores@gmail.com](mailto:guanmiflores@gmail.com)
-- 📍 **Ubicación:** Bahía Blanca, Buenos Aires, Argentina
-- 
